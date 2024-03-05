@@ -1,5 +1,17 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 welcome
 =======
 hello 1
 >>>>>>> 293bf53435f5255343e5656508de67af1656b690
+=======
+hello 1
+hello from ,me
+=======
+<<<<<<< HEAD
+
+=======
+hello ashwini
+>>>>>>> ab78cd03cad2aebafa4a1acb053f3ced6d6b0236
+>>>>>>> 33a0bfca689420c3b5e553a9ad19cff434a1a8f6
+>>>>>>> ea068e8791f31b7de6f3bea885186baf4b4764b1
