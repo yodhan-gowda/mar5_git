@@ -1,2 +1,6 @@
 hello 1
+<<<<<<< HEAD
 hi hello
+=======
+hello ashwini
+>>>>>>> ab78cd03cad2aebafa4a1acb053f3ced6d6b0236
