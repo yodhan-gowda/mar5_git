@@ -1,3 +1,12 @@
+
+---Hello world! from chandana--
+hi,from me.
+=======
+<<<<<<< HEAD
+Hello all!!
+hii
+wellllllllll
+=======
 <<<<<<< HEAD
 ---Hello world!---.
 =======
@@ -5,7 +14,16 @@
 Hello all!!
 
 hello  145
+hello, from me
 =======
 ---Hello world!---
 >>>>>>> f072836e255a690a59e16c4f0ae0c2eaa59877b7
 >>>>>>> 6d47fa17620f3208165dfe85390f4c16dfd2f2bd
+>>>>>>> 293bf53435f5255343e5656508de67af1656b690
+<<<<<<< HEAD
+ hiiiiiiiiiiiiiiiiii
+ heloooooooooooooooooooo
+ asdfghjkkkkijhbvenm
+=======
+hi from chandana
+>>>>>>> ea068e8791f31b7de6f3bea885186baf4b4764b1

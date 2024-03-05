@@ -1,1 +1,17 @@
+<<<<<<< HEAD
 hello monika
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+hello all
+=======
+hello
+>>>>>>> 293bf53435f5255343e5656508de67af1656b690
+=======
+hello
+hani
+=======
+hello hi 
+>>>>>>> 33a0bfca689420c3b5e553a9ad19cff434a1a8f6
+>>>>>>> ea068e8791f31b7de6f3bea885186baf4b4764b1
+>>>>>>> bebb1fc58cb792266edb24ff6cebd55c2c53ca73
